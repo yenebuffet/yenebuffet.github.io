@@ -1,0 +1,320 @@
+{
+  "Title": {
+    "Fast Foods": [
+      {
+        "hotelName": "Rome 1960 Cafe",
+        "hotelDesc": "Wonde the best in business",
+        "hotelImage": "rome_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Burger", "Pizza", "Sandwich", "Chicken", "Rolls"]
+      },
+      {
+        "hotelName": "Golet Burger",
+        "hotelDesc": "Golet is a very nice place that can satsify your need",
+        "hotelImage": "golet_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Burger", "Chicken"]
+      },
+      {
+        "hotelName": "Hasob Burger",
+        "hotelDesc": "Hasob is a very nice place that can satsify your need",
+        "hotelImage": "hasob_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Burger", "Sandwich"]
+      },
+      {
+        "hotelName": "Buka Bar and Restaurant",
+        "hotelDesc": "Buka is a very nice place that can satsify your need",
+        "hotelImage": "buka_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Burger", "Pizza"]
+      },
+      {
+        "hotelName": "Rome 1960 Cafe",
+        "hotelDesc": "Rome is a very nice place that can satsify your need",
+        "hotelImage": "rome_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Burger", "Pizza", "Sandwich", "Chicken", "Rolls"]
+      },
+      {
+        "hotelName": "Golet Burger",
+        "hotelDesc": "Golet is a very nice place that can satsify your need",
+        "hotelImage": "golet_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Burger", "Pizza", "Chicken", "Rolls"]
+      },
+      {
+        "hotelName": "Hasob Burger",
+        "hotelDesc": "Hasob is a very nice place that can satsify your need",
+        "hotelImage": "hasob_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Sandwich", "Chicken"]
+      },
+      {
+        "hotelName": "Buka Bar and Restaurant",
+        "hotelDesc": "Buka is a very nice place that can satsify your need",
+        "hotelImage": "buka_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Burger", "Rolls"]
+      }
+    ],
+    "Dessert": [
+      {
+        "hotelName": "My Igloo",
+        "hotelDesc": "My Igloo is a very nice place that can satsify your need",
+        "hotelImage": "my_igloo_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Cake", "Ice Cream"]
+      },
+      {
+        "hotelName": "Rome 1960 Cafe",
+        "hotelDesc": "Rome is a very nice place that can satsify your need",
+        "hotelImage": "rome_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Cake"]
+      }
+    ],
+    "Drinks": [
+      {
+        "hotelName": "Yene Buffet",
+        "hotelDesc": "Yene Buffet is a very nice place that can satsify your need",
+        "hotelImage": "yene_buffet_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Soft Drinks", "Water", "Beverage"]
+      }
+    ],
+    "Main Dish": [
+      {
+        "hotelName": "Hasob Burger",
+        "hotelDesc": "Hasob is a very nice place that can satsify your need",
+        "hotelImage": "hasob_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Hagerigna", "Foreign", "Fish"]
+      },
+      {
+        "hotelName": "Buka Bar and Restaurant",
+        "hotelDesc": "Buka is a very nice place that can satsify your need",
+        "hotelImage": "buka_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Hagerigna", "Fish"]
+      },
+      {
+        "hotelName": "Lake View",
+        "hotelDesc": "Lake View is a very nice place that can satsify your need",
+        "hotelImage": "lake_view_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Hagerigna", "Foreign"]
+      }
+    ],
+    "Appetizer | Sides": [
+      {
+        "hotelName": "Lake View",
+        "hotelDesc": "Lake View is a very nice place that can satsify your need",
+        "hotelImage": "lake_view_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Appetizer", "Sides"]
+      }
+    ],
+    "Juice | Mixes": [
+      {
+        "hotelName": "Time Cafe",
+        "hotelDesc": "Time is a very nice place that can satsify your need",
+        "hotelImage": "buka_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Juices", "Smoothies", "Shakes"]
+      }
+    ],
+    "Bakery": [
+      {
+        "hotelName": "Rome 1960 Cafe",
+        "hotelDesc": "Rome is a very nice place that can satsify your need",
+        "hotelImage": "rome_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Birthday", "Weddings", "Parties"]
+      }
+    ],
+    "Specials": [
+      {
+        "hotelName": "Haile Resort",
+        "hotelDesc": "Haile Resort is a very nice place that can satsify your need",
+        "hotelImage": "haile_hotel_image",
+        "hotelRating": 4.5,
+        "tabList": ["Special"]
+      }
+    ]
+  },
+  "Foods": {
+    "Rome 1960 Cafe": [
+      {
+        "Fast Food": [
+          {
+            "Burger": [
+              {
+                "name": "Beef Burger",
+                "price": "ETB 120",
+                "rating": 4.5,
+                "timing": "20 - 30min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Special Burger",
+                "price": "ETB 220",
+                "rating": 3.5,
+                "timing": "30 - 40min",
+                "image": "rome_beef_burger",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Vegetable Burger",
+                "price": "ETB 180",
+                "rating": 4.5,
+                "timing": "20 - 35min",
+                "image": "american_burger_chicken_fried",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Meat Burger",
+                "price": "ETB 180",
+                "rating": 4.5,
+                "timing": "20 - 35min",
+                "image": "rome_calzone_pizza",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Special Burger",
+                "price": "ETB 180",
+                "rating": 4.5,
+                "timing": "20 - 35min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Vegetable Burger",
+                "price": "ETB 180",
+                "rating": 4.5,
+                "timing": "20 - 35min",
+                "image": "american_burger_chicken_fried",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Vegetable Burger",
+                "price": "ETB 180",
+                "rating": 4.5,
+                "timing": "20 - 35min",
+                "image": "rome_juice",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Vegetable Burger",
+                "price": "ETB 180",
+                "rating": 4.5,
+                "timing": "20 - 35min",
+                "image": "rome_calzone_pizza",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              }
+            ]
+          },
+          {
+            "Pizza": [
+              {
+                "name": "Beef Pizza",
+                "price": "ETB 220",
+                "rating": 4.5,
+                "timing": "20 - 30min",
+                "image": "rome_beef_burger",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Special Beef Pizza",
+                "price": "ETB 320",
+                "rating": 4.5,
+                "timing": "30 - 40min",
+                "image": "american_burger_club_sandwich",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Juices | Mixes": [
+          {
+            "Shakes": [
+              {
+                "name": "Milk Shake",
+                "price": "ETB 90",
+                "rating": 4.5,
+                "timing": "15 - 20min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              }
+            ]
+          },
+          {
+            "Juices": [
+              {
+                "name": "Mango Juice",
+                "price": "ETB 70",
+                "rating": 4.5,
+                "timing": "20 - 30min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Avacado Juice",
+                "price": "ETB 70",
+                "rating": 5,
+                "timing": "20 - 30min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Papaya Juice",
+                "price": "ETB 70",
+                "rating": 4.5,
+                "timing": "20 - 30min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Banana Juice",
+                "price": "ETB 70",
+                "rating": 4,
+                "timing": "20 - 30min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Rome 1960 Cafe is one of the ass hole hotels around that is shit to eat"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Golet Burger": [
+      {
+        "Fast Food": [
+          {
+            "Burger": [
+              {
+                "name": "Beef Burger",
+                "price": "ETB 120",
+                "rating": 4.5,
+                "timing": "20 - 30min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Golet Burger is one of the ass hole hotels around that is shit to eat"
+              },
+              {
+                "name": "Beef Burger",
+                "price": "ETB 120",
+                "rating": 4.5,
+                "timing": "20 - 30min",
+                "image": "rome_chicken_club_sandwich",
+                "desc": "Golet Burger is one of the ass hole hotels around that is shit to eat"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
