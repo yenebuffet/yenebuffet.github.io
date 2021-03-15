@@ -49,13 +49,6 @@
         "hotelImage": "hasob_hotel_image",
         "hotelRating": 4.5,
         "tabList": ["Sandwich", "Chicken"]
-      },
-      {
-        "hotelName": "Buka Bar and Restaurant",
-        "hotelDesc": "Buka is a very nice place that can satsify your need",
-        "hotelImage": "buka_hotel_image",
-        "hotelRating": 4.5,
-        "tabList": ["Burger", "Rolls"]
       }
     ],
     "Dessert": [
